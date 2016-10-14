@@ -14,6 +14,8 @@ To submit a talk. Do a pull request here, add your talk title, short description
   - [Hacktoberfest][1] - "Support and celebrate open source. Earn a limited edition T-shirt."
   - [CodeBuddies.org][2] - "Learn and chat about code!" One of the featured open source projects for Hacktoberfest also happens to be a good place for studying, collaboration and sharing coding resources. Built with Meteor.
   - [Exercism.io][3] - "Level up your programming skills"
+    - [More info on exercism.io](exercism.io.info.md)
+    - [Detroit JavaScript exercism.io team][3b]. Join the team by emailing Mike Matola (matola at sbcglobal dot net). Let Mike know if you want to be a team admin.
   - [FreeCodeCamp][4] - "Learn to code and help nonprofits"
   - [State of JS][5] - "The State Of JavaScript" - A survey on the current state of JS and what people are using.
   - Slacks (not pants) - A list of JS/developer slack chat groups
@@ -26,6 +28,7 @@ To submit a talk. Do a pull request here, add your talk title, short description
 [1]: https://hacktoberfest.digitalocean.com/
 [2]: https://codebuddies.org
 [3]: https://exercism.io
+[3b]: http://exercism.io/teams/detroitjs/streams
 [4]: https://www.freecodecamp.com/
 [5]: http://stateofjs.com/2016/introduction/
 [6]: http://wealljs.org
